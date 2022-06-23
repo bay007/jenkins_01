@@ -1,2 +1,2 @@
-for i in range(2500):
+for i in range(250):
     print(f"Index:{i}")
